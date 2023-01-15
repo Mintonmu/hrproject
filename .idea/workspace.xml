@@ -4,26 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2290aa0-4111-42ec-99c0-833caa678885" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrsys_ssm/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrsys_ssm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrsys_ssm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrsys_ssm/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="a2290aa0-4111-42ec-99c0-833caa678885" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/hrsys_ssm/src/main/java/com/alan/hrsys/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrsys_ssm/src/main/java/com/alan/hrsys/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrsys_ssm/src/main/java/com/alan/hrsys/entity/SysPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrsys_ssm/src/main/java/com/alan/hrsys/entity/SysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrsys_ssm/src/main/java/com/alan/hrsys/entity/SysUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,12 +59,17 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alan.hrsys.entity" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -86,15 +90,36 @@
       <workItem from="1673773551840" duration="458000" />
       <workItem from="1673774021420" duration="666000" />
       <workItem from="1673774705668" duration="2151000" />
-      <workItem from="1673782403405" duration="2180000" />
+      <workItem from="1673782403405" duration="3086000" />
     </task>
+    <task id="LOCAL-00001" summary="变更">
+      <created>1673784870537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673784870537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="变更" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
